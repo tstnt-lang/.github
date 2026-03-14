@@ -156,5 +156,5 @@ tstnt --secret               easter egg 🐉
 ---
 
 <div align="center">
-  <sub>Built with ❤️ on Android · TSTNT v0.8.0</sub>
+  <sub>Built with ❤️ on Android · TSTNT</sub>
 </div>
